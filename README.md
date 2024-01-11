@@ -1,3 +1,11 @@
+*The Whole Code was written in Python*
+
+**Packages and Utility**
+Data Analysis : Numpy, Pandas, Scipy
+Data Visualization : Matplotlib, Seaborn
+Data Modelling : Scikitlearn
+
+
 |        Column name        |                       Description                                                                            |                                       
 |---------------------------|--------------------------------------------------------------------------------------------------------------|
 | claim_status              | Whether the published video has been identified as an “opinion” or a “claim.” "opinion": Individual’s or group’s personal belief or thought,"claim": Information either unsourced or from an unverified source.                                  
