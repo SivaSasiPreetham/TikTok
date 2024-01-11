@@ -1,6 +1,7 @@
 *The Whole Code was written in Python*
 
 **Packages and Utility**
+|---------------------------------------------|
 | Data Analysis       | Numpy, Pandas, Scipy  |                                              
 | Data Visualization  |  Matplotlib, Seaborn  |                                              
 | video_comment_count |  Scikitlearn          |  
