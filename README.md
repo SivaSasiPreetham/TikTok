@@ -1,8 +1,7 @@
 |        Column name        |                       Description                                                                            |                                       
 |---------------------------|--------------------------------------------------------------------------------------------------------------|
-| claim_status              | Whether the published video has been identified as an “opinion” or a “claim.”                                                                                
-|                              - "opinion": Individual’s or group’s personal belief or thought.                                            |                                              
-|                           |   - "claim": Information either unsourced or from an unverified source.                                      |                                              
+| claim_status              | Whether the published video has been identified as an “opinion” or a “claim.” "opinion": Individual’s or group’s personal belief or thought."claim": Information either unsourced or 
+|                           | from an unverified source.                                                                                   |                                                                
 | video_id                  | Random identifying number assigned to video upon publication on TikTok.                                      |                                              
 | video_duration_sec        | Duration of the published video measured in seconds.                                                         |                                              
 | video_transcription_text  | Transcribed text of the words spoken in the published video.                                                 |                                              
