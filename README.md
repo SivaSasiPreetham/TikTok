@@ -5,9 +5,7 @@
 | video_id                  | Random identifying number assigned to video upon publication on TikTok.                                      |                                              
 | video_duration_sec        | Duration of the published video measured in seconds.                                                         |                                              
 | video_transcription_text  | Transcribed text of the words spoken in the published video.                                                 |                                              
-| verified_status           | Indicates the verification status of the TikTok user who published the video.                                |                                              
-|                              - "verified": Verified TikTok user.                                                                                                                      
-|                              - "not verified": TikTok user not verified.                                                                 |                                              
+| verified_status           | Indicates the verification status of the TikTok user who published the video. "verified": Verified TikTok user. "not verified": TikTok user not verified.                               
 | author_ban_status         | Indicates the permission status of the TikTok user who published the video.                                  |                                              
 |                              - "active": Active user.                                                                                                                                 
 |                              - "under scrutiny": User under scrutiny.                                                                                                                 
