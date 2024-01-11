@@ -6,10 +6,9 @@
 | Data Visualization  | Matplotlib, Seaborn  |                                              
 | Data Modelling      | Scikitlearn          |  
 
-Link to access the dataset online :- https://1drv.ms/x/s!AhDrabthCgNYylZShDqDAxvE1kYt?e=Z91NtN 
-<br>
+Link to access the dataset online :- https://1drv.ms/x/s!AhDrabthCgNYylZShDqDAxvE1kYt?e=Z91NtN <br>
 
-Following is the Information Regarding the Dataset :-
+*Following is the Information Regarding the Tiktok Dataset used in the Project* :-
 
 |        Column name        |                       Description                                                                            |                                       
 |---------------------------|--------------------------------------------------------------------------------------------------------------|
