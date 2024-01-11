@@ -1,14 +1,13 @@
-*The Whole Code was written in Python*
+*The Whole Code was written in Python and following are the Packages utilized for completing the Project*
 
 |    Utility          |     Packages         |
 |---------------------|----------------------|
 | Data Analysis       | Numpy, Pandas, Scipy |                                              
 | Data Visualization  | Matplotlib, Seaborn  |                                              
-| video_comment_count | Scikitlearn          |  
+| Data Modelling      | Scikitlearn          |  
 
-
-
-
+Link to access the dataset online :- https://1drv.ms/x/s!AhDrabthCgNYylZShDqDAxvE1kYt?e=Z91NtN
+Following is the Information Regarding the Dataset :-
 
 |        Column name        |                       Description                                                                            |                                       
 |---------------------------|--------------------------------------------------------------------------------------------------------------|
