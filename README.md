@@ -7,6 +7,9 @@
 | video_comment_count | Scikitlearn          |  
 
 
+
+
+
 |        Column name        |                       Description                                                                            |                                       
 |---------------------------|--------------------------------------------------------------------------------------------------------------|
 | claim_status              | Whether the published video has been identified as an “opinion” or a “claim.” "opinion": Individual’s or group’s personal belief or thought,"claim": Information either unsourced or from an unverified source.                                  
