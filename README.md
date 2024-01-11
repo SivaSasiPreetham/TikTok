@@ -1,4 +1,4 @@
-| Column name              | Description                                                                                                   |
+|Column name              x| Description                                                                                                   |
 |--------------------------|---------------------------------------------------------------------------------------------------------------|
 |claim_status              | Whether the published video has been identified as an “opinion” or a “claim.”                                 |
 |                          |   - "opinion": Individual’s or group’s personal belief or thought.                                            |
