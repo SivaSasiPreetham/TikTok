@@ -1,3 +1,7 @@
+**Link to access the data online** :- https://1drv.ms/x/s!AhDrabthCgNYylZShDqDAxvE1kYt?e=8rZqT4 <br>
+
+*Following is the information regarding the dataset used in the Project :-*
+
 |        Column name        |                       Description                                                                            |                                       
 |---------------------------|--------------------------------------------------------------------------------------------------------------|
 | claim_status              | Whether the published video has been identified as an “opinion” or a “claim.” **"opinion"**: Individual’s or group’s personal belief or thought, **"claim"**: Information either unsourced or from an unverified source.                                                                |                                                               
