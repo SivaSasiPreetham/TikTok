@@ -1,10 +1,10 @@
 **The Project is Completely written in Python**<br>
 
 *Following are the Packages utilized to complete the Project :-*<br>
-| Utility              | Packages             |
+| Utility              | Packages or Software           |
 |----------------------|-----------------------|
 | Data Analysis        | Numpy, Pandas, Scipy  |
-| Data Visualization   | Matplotlib, Seaborn   |
+| Data Visualization   | Matplotlib, Seaborn, Tableau   |
 |   Data Modelling     | Scikit-learn          |
 
 **The TikTok data team seeks to construct a Machine Learning Classification model that will predict the status of claims made by users. Since the end goal is to classify claims and opinions, it’s important to build a model that shows how to predict the behavior of the account type (verified) that tend to post more opinions.**<br>
